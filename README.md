@@ -18,6 +18,21 @@ The outcome includes interactive Power BI dashboards and reports that effectivel
 
 8. **Home Ownership Analysis:** Home ownership impact on loan applications and disbursements for a hierarchical view of borrower status.
 
+### Insights:
+
+**Summary-** 
+
+<img width="601" alt="summary_page" src="https://github.com/user-attachments/assets/f8e2b543-df26-41a2-a0ac-02c617bc675d">
+
+**Overview-**
+
+<img width="602" alt="overview_page" src="https://github.com/user-attachments/assets/8f086e2f-2599-41a2-b809-66f936fcd394">
+
+**Details-**
+
+<img width="604" alt="details_page" src="https://github.com/user-attachments/assets/efc03247-f76b-46c6-8546-733dc7c662b6">
+
+
 
 
 
